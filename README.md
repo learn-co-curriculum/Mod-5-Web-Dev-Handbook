@@ -117,3 +117,6 @@ If you don’t take breaks, you’ll end up hurting your eyes, getting an RSI or
 [Heroku](https://www.heroku.com/) - Simple, free hosting for your site
 
 How to hide API keys in [Javascript](https://geodoo.work/hide-secure-api-keys-created-app-create-react-app/) / [Ruby](https://blog.arkency.com/2017/07/how-to-safely-store-api-keys-in-rails-apps/) | [option 2] (https://github.com/laserlemon/figaro)
+
+
+Go forth and make something awesome :)
